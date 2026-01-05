@@ -3,7 +3,8 @@
 📅 Graduation year: 2029
 💻 Learning Full Stack Web Development
 ⚙️ Practicing C and C++
-📚 Focused on fundamentals, clean code, and continuous improvement
+📚 Focused on fundamentals, clean code, and continuous improvement.
+Know more about me: https://dipanjan2907.github.io/my-portfolio/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipanjan_2907) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipanjan2907) 
