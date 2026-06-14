@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓 B.Tech CSE student at JIS University
 📅 Graduation year: 2029
-💻 Learning Full Stack Web Development
-⚙️ Practicing C and C++
+💻 MERN Stack Web Developer
+⚙️ Practising DSA, C++, Python, Java
 📚 Focused on fundamentals, clean code, and continuous improvement.
 Know more about me at https://dipanjansadhukhan.vercel.app
 
