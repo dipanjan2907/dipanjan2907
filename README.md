@@ -1,9 +1,9 @@
-# 💫 About Me:
-🎓 B.Tech CSE student at JIS University
-📅 Graduation year: 2029
-💻 MERN Stack Web Developer
-⚙️ Practising DSA, C++, Python, Java
-📚 Focused on fundamentals, clean code, and continuous improvement.
+# 💫 About Me: <br>
+🎓 B.Tech CSE student at JIS University <br>
+📅 Graduation year: 2029 <br>
+💻 MERN Stack Web Developer <br>
+⚙️ Practising DSA, C++, Python, Java <br>
+📚 Focused on fundamentals, clean code, and continuous improvement. <br>
 Know more about me at https://dipanjansadhukhan.vercel.app
 
 ## 🌐 Socials:
